@@ -1,0 +1,12 @@
+CloudSeaA
+CloudSliderObstacle
+CloudWind2DPlanet
+CymbalsStep
+SkyIslandPartsA
+SkyIslandPartsB
+SkyIslandPartsC
+SkyIslandPartsD
+SkyIslandPartsE
+SkyIslandPartsF
+ZigZagCrushBlockA
+ZigZagCrushBlockB
