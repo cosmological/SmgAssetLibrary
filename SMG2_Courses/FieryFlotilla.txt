@@ -1,0 +1,6 @@
+AsteroidC
+BellyDragonLv1Planet
+FireBarSpherePlanet
+KoopaJrCastleGate
+KoopaJrCastleGatePlanet
+KoopaJrStatue

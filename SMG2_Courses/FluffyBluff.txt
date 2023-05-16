@@ -4,5 +4,6 @@ CloudAcrossValleyCliffPlanet
 CloudAcrossValleyPlanet
 CloudClimbMountainPlanet
 CloudValleyTowerPlanet
+DecorationBigCloud
 TriangleTowerRotateStep
 WaterAcrossSpherePlanet

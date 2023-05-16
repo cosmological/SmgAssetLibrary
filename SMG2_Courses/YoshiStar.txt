@@ -1,0 +1,13 @@
+BossJugemPlanet
+BossJugemPlanetCloud
+MiniPlanetAcrossPlanet
+MiniPlanetAcrossPlanetMistA
+PaipoCrystalBreakPlanet
+PullTargetDrawer
+YoshiBroxBreakPlanet
+YoshiCaptureClimbPlanet
+YoshiCaptureRelayPlanet
+YoshiCaughtPlanet
+YoshiClimbMountainPlanet
+YoshiHomeLift 
+YoshiPullStepPlanet
