@@ -1,0 +1,10 @@
+GliderBalloon
+GliderCliffCreekPlanet
+GliderCometMedalCage
+GliderForestPlanet
+GliderForestWaterfallRelayPlanet
+GliderPoleWoodPlanet
+GliderStartWoodPlanet
+GliderTreeA
+GliderWaterfallPlanet
+SecretGate

@@ -1,0 +1,16 @@
+BakuBakuClipStep
+CapsuleLavaLiftA
+CapsuleLavaLiftB
+CapsuleLavaPlanetA
+CapsuleLavaPlanetB
+FlagKoopaA
+FoominLavaCrossPlanet
+FoominLavaCrossPlanetProminence
+KoopaBattleLv1Planet
+KoopaDemoChamber
+KoopaSealField
+KoopaSealFieldMiddle
+KoopaCastleFireTowerA
+KoopaLv1LavaFallStep
+KoopaLv1StartStep
+RepeatBlockLavaBoxPlanetProminence
