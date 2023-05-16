@@ -1,0 +1,10 @@
+BattleShipWarpHole
+ClipAppearBattleShip
+JrRobotStep
+JrRobotStepBreakableA
+KoopaJrLv2BossRelayPlanet
+KoopaJrLv2FloatPlanet
+KoopaJrLv2Lift
+KoopaJrLv2StartPlanet
+KoopaJrLv2StartPlanetB
+YoshiKillerThrowPlanet

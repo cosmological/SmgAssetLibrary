@@ -8,5 +8,8 @@ SkyIslandPartsC
 SkyIslandPartsD
 SkyIslandPartsE
 SkyIslandPartsF
+SkyIslandStepPartsA
+SkyIslandStepPartsB
+SkyIslandStepPartsC
 ZigZagCrushBlockA
 ZigZagCrushBlockB
