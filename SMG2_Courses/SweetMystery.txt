@@ -1,0 +1,17 @@
+MysteryCandyBrightPlanet
+MysteryCandyBrightPlanetCover
+MysteryCandyBrightPlanetParts
+MysteryCandyDecorateParts
+MysteryCandyDecoratePartsB
+MysteryCandyPlanet
+MysteryFlipPanelBrightPlanet
+MysteryFlipPanelPlanet
+MysteryMountainBrightPlanet
+MysteryMountainPlanet
+MysteryMountainPlanetCover
+MysteryMoveStepA
+MysteryMoveStepCoverA
+MysteryMoveStepB
+MysteryMoveStepCoverB
+MysteryMoveStepC
+MysteryMoveStepCoverC

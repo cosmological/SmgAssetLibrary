@@ -1,0 +1,9 @@
+BattanRoadPlanet
+DustKoopaBrick
+KoopaBattleLv2Planet
+KoopaLv2BattleRelayPlanet
+LavaBubble2DPlanet
+LavaFloaterTrapezoid
+LavaGravityRoadPlanet
+RotateFireBar2DRotateStep
+RotateFireBar2DRotateStepParts

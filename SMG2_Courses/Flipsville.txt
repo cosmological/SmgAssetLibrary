@@ -1,0 +1,10 @@
+BossBussunPlanet
+BothSideDrillTowerPlanet
+BothSideLift
+BothSideLiftPlanet
+BothSideMazeRoomDrillPlanet
+BothSideMazeRoomPlanet
+BothSideMazeRoomSlideWall
+BothSideWanwanPlanet
+TimerGravityChangeDrillRoom
+TimerGravityChangeDrillRoomWall

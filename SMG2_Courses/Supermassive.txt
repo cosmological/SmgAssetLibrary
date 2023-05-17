@@ -1,0 +1,13 @@
+BigCoinBlockStep
+BigEarthenPipeExtend
+BigEarthenPipeGround
+BigHanachanPlanet
+BigNokonokoLandPlanet
+BigPunchBoxStep
+BigRepeatWarpLift
+BigRotateCoinWall
+BigSignBoard
+BigStrongBlockStep
+BigYellowChipStep
+FlowerBlossomRellayPlanet
+SpinDriverEarthenPipePlanet

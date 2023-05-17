@@ -1,0 +1,6 @@
+MonteStatue
+RotateSeesawTrampoline
+SkyBeachCorals
+SkyBeachFlowers
+TropicalCloudTowerPlanet
+WaterSphereCoralPlanet
