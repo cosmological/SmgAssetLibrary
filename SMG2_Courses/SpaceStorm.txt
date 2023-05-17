@@ -1,0 +1,17 @@
+BarrelElectricRailColonyPlanet
+BarrelElectricRailMoveLift
+BarrelElectricRailRotateLift
+BlueStarCupsulePlanet
+BombHeiLeadingInnerPlanet
+BombHeiLeadingOuterPlanet
+DrumBegomanHolePlanet
+WaterFortressConveyerA
+WaterFortressConveyerB
+WaterFortressConveyerC
+WaterFortressConveyerD
+WaterFortressDoor
+WaterFortressPlanet
+WaterFortressRotateStepA
+WaterFortressRotateStepB
+WaterFortressRotateStepC
+WaterFortressRotateStepD

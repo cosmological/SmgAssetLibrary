@@ -1,0 +1,11 @@
+CannonRelayPlanet
+KoopaJrCastlePlanet
+KoopaJrRobotBreakPlanet
+MarioLauncherTargetB
+MarioLauncherTargetC
+PoisonSwanpRailMoveSeesaw
+PoisonSwanpSeesawMovePlanet
+RoboRotateArmStep
+SphereCloudMoveRotateStepA
+SphereCloudMoveRotateStepB
+VsBoomerangBrosPlanet

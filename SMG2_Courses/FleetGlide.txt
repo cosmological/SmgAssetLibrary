@@ -1,0 +1,10 @@
+ChallengeGliderStartPlanet
+FallDownWall
+GliderChangeVisiblePillar
+GliderChangeVisiblePillarB
+GliderCylinderPlanet
+GliderDossunRoadPlanet
+GliderDownFallOutWardPlanet
+GliderDownFallPlanet
+GliderDownPillar
+GliderHoleThroughWallA

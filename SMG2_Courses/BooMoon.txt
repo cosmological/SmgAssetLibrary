@@ -1,0 +1,14 @@
+BendSwanpPlanet
+BendSwanpStepA
+BendSwanpStepB
+BendSwanpStepC
+CrescentSeesawPlanet
+GhostMazePlanet
+GhostMazePushDoor
+GhostMazePushDoorB
+GhostMazeWall
+GhostTower2DPlanet
+KinokoOneUpPicture
+ReverseClipConveyerPlanet
+RisePictureBookPlanet
+TeresaPicture
