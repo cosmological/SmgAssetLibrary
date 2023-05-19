@@ -1,0 +1,13 @@
+BattleAsteroidCloud
+BattleAsteroidStartPlanet
+BattleGrapyonPlanet
+BattleGrapyonPlanetParts
+BattleIceMerameraPlanet
+BattleKabokuriPlanet
+BattleKaninaPlanet
+BattleMerameraPlanet
+BattleMogucchiPlanet
+BattleUnizoLandPlanet
+BattleWanwanSearchPlanet
+BattleWaterTeresaPlanet
+BellyDragonLv2Planet

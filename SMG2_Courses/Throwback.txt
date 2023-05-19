@@ -1,0 +1,6 @@
+FlipTurnMoveStep
+OldFortressPlanet
+OldFortressRotateStep
+OldFortressSlideStep
+OldFortressTopCover
+RailMoveDisappearStep

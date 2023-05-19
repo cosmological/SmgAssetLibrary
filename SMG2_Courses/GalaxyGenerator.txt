@@ -1,0 +1,12 @@
+BarrelCloudActionPlanet
+BarrelCloudActionRotateLiftA
+KoopaBattleLv3Planet
+KoopaFinalStarPlanet
+KoopaLv3Seesaw
+LavaAcrossFloater
+LavaBeforeRepeatBlockFloater
+LavaDrillKillerPlanet
+LavaFluffFallPlanet
+LavaSeparateWaterfall
+LavaYoshiActionFloaterA
+LavaYoshiActionPlanetA
