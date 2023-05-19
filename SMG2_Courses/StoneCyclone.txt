@@ -1,0 +1,5 @@
+NewOnimasuPlanet
+NewOnimasuPlanetPartsGoal
+OnimasuPlanetRailMovePartsA
+OnimasuPlanetRotatePartsA
+OnimasuPlanetRotatePartsB
