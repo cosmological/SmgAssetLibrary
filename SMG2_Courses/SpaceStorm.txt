@@ -13,5 +13,4 @@ WaterFortressDoor
 WaterFortressPlanet
 WaterFortressRotateStepA
 WaterFortressRotateStepB
-WaterFortressRotateStepC
 WaterFortressRotateStepD

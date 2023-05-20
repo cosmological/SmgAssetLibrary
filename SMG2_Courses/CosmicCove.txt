@@ -2,10 +2,10 @@ AquariumPlanetA
 AquariumPlanetB
 AquariumRailMoveObj
 DrillWaterSpringPlanet
-DrillWaterSpringPlanetFountain
 DustIceCrystal
 RailMoveWaterAreaPlanet
 RailMoveWaterObj
 SkateHolePlanet
 StarCreekPlanet
-StarCreekWaterfallL
+StarCreekPlanetIce
+StarCreekPlanetWater

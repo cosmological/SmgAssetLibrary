@@ -11,7 +11,5 @@ FollowerDrillDiskPlanetParts
 FollowerDrillInsidePlanet
 FollowerDrillInsidePlanetCover
 FollowerDrillPearPlanet
-HolePlanetInsidePurpleSky
-HolePlanetInsideSky
 RelayDrill2DPlanet
 TwoLegsPlanet

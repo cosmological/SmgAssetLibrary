@@ -1,11 +1,11 @@
- - BombZoneGravityDisplayPanel
- - ChaosGravityStartPlanet
- - GraviryTimerChange2DActionPlanet
- - GravityFollowLift
- - GravityFollowLiftB
- - GravityFollowLiftBig
- - GravityFollowLift2DPlanet
- - GravityFollowPanel
- - GravityFollowPanelJumpStandPlanet
- - GravityTimerChangeWall
- - SwitchGravityBombHeiPlanet
+BombZoneGravityDisplayPanel
+ChaosGravityStartPlanet
+GraviryTimerChange2DActionPlanet
+GravityFollowLift
+GravityFollowLiftB
+GravityFollowLiftBig
+GravityFollowLift2DPlanet
+GravityFollowPanel
+GravityFollowPanelJumpStandPlanet
+GravityTimerChangeWall
+SwitchGravityBombHeiPlanet

@@ -11,7 +11,7 @@ ReverseFlowSandPlanet
 SandBirdPartsBlock
 SandBirdPartsCorner
 SandBirdPartsHeadLeft
-SandBirdPartsHeadRigh
+SandBirdPartsHeadRight
 SandBirdPartsTail
 SandBirdPartsTailLeft
 SandBirdPartsTailRight

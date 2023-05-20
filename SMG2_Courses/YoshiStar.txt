@@ -4,7 +4,7 @@ MiniPlanetAcrossPlanet
 MiniPlanetAcrossPlanetMistA
 PaipoCrystalBreakPlanet
 PullTargetDrawer
-YoshiBroxBreakPlanet
+YoshiBoxBreakPlanet
 YoshiCaptureClimbPlanet
 YoshiCaptureRelayPlanet
 YoshiCaughtPlanet
