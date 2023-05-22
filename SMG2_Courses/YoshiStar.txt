@@ -9,5 +9,4 @@ YoshiCaptureClimbPlanet
 YoshiCaptureRelayPlanet
 YoshiCaughtPlanet
 YoshiClimbMountainPlanet
-YoshiHomeLift 
 YoshiPullStepPlanet

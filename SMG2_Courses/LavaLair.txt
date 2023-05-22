@@ -3,7 +3,6 @@ CapsuleLavaLiftA
 CapsuleLavaLiftB
 CapsuleLavaPlanetA
 CapsuleLavaPlanetB
-FlagKoopaA
 FoominLavaCrossPlanet
 FoominLavaCrossPlanetProminence
 KoopaBattleLv1Planet
