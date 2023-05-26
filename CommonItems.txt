@@ -1,0 +1,7 @@
+Characters
+Collectables
+Decorations
+Enemies
+Interactables
+Obstacles
+Platforms

@@ -1,3 +1,13 @@
+CoconutTreeLeaf
+DangerSignBoard
+DustCloud
+DustCrystal
+DustFlower
+DustIceCrystal
+DustKoopaBrick
+DustLava
+DustMetal
+MarinePlant00
 PlantA00
 PlantA01
 PlantA02
@@ -15,13 +25,3 @@ PlantD01
 PlantD02
 PlantLeaf
 PlantSeed
-DustCloud
-DustCrystal
-DustFlower
-DustIceCrystal
-DustKoopaBrick
-DustLava
-DustMetal
-MarinePlant00
-CoconutTreeLeaf
-DangerSignBoard
